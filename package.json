@@ -104,7 +104,7 @@
         "postcss-loader": "^3.0.0",
         "prettier": "^1.17.1",
         "raf": "^3.4.1",
-        "react-dev-utils": "^9.0.1",
+        "react-dev-utils": "^11.0.4",
         "sass-loader": "^7.1.0",
         "style-loader": "^0.23.1",
         "stylelint": "^9.9.0",
